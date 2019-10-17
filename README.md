@@ -1,4 +1,4 @@
-# Google-Analytics-get-View-ID php
+# Google Analytics get View ID in php
 
 Simple php class for getting VIEW_ID of a specific website from account summeries and using it to fetch Google Analytics data of that website.
 
